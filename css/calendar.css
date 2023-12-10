@@ -1,0 +1,200 @@
+._3efP_GeH5kyBAzqnLzL.adpQ3VUeQbmczOdx9ymw.w_Mtb2W9166EgOSv9i3M.cllbjvXCdYDt9A3te4cz {
+  height: 1013px !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+iframe .lightningjs-usabilla_live {
+  height: 1013px !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.col-inner {
+  max-width: 800px;
+  margin-inline: auto;
+  /* padding: 30px; */
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+@media (min-width: 724px) {
+  .col-inner {
+    max-width: 800px;
+    margin-inline: auto;
+    margin-top: 0px;
+    transform: translateY(40px);
+    border-radius: 10px;
+  }
+}
+
+.cal .elAlign_left {
+  text-align: left;
+}
+.cal .elMargin0 {
+  margin-top: 0px;
+}
+.calendly-inline-widget {
+  /* height: calc(100% + 50px) !important; */
+  height: 700px !important;
+}
+
+.cal .de-editable {
+  position: relative;
+}
+img[alt="team-photo"] {
+  border: 2.5px solid #ffd700;
+  border-radius: 50%;
+}
+.cal .de-image-block img {
+  max-width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0px;
+}
+.cal .elHeadlineWrapper {
+  margin-top: 20px;
+  outline: none;
+  /*cursor: pointer;*/
+}
+.cal .elHeadline {
+  text-align: left;
+  font-size: 20px;
+  color: rgb(45, 45, 45);
+}
+.cal #headline-14564 .elHeadline b {
+  color: rgb(252, 55, 146);
+}
+.cal .deCapitalize {
+  text-transform: capitalize;
+}
+.cal .lh3 {
+  line-height: normal;
+
+  text-align: left;
+  font-size: 38px;
+  color: #ffd700;
+}
+.cal .hsSize3 {
+  font-size: 32px;
+}
+.ms28 b {
+  font-size: 20px !important;
+}
+.adult b {
+  font-size: 18px;
+}
+.therap b {
+  font-size: 28px;
+
+  font-weight: 700;
+}
+.cal .elHeadline {
+  margin-bottom: 0px;
+  padding: 0px;
+}
+.cal .elHeadline {
+  position: relative;
+}
+.cal .elMargin0 {
+  margin-top: 0px;
+}
+.cal .mynu {
+  text-align: left;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.8);
+  margin-top: 15px;
+  outline: none;
+  /*cursor: pointer;*/
+}
+.cal .headof {
+  margin-top: 20px;
+  outline: none;
+  /*cursor: pointer;*/
+}
+.mainsc {
+  margin-top: 0 !important;
+}
+.cal .adult {
+  text-align: left;
+  font-size: 20px;
+  color: rgb(45, 45, 45);
+}
+.cal .adult span {
+  color: #ffd700;
+}
+.cal .elBullet {
+  margin-top: 15px !important;
+  outline: none;
+}
+.cal .elBulletList {
+  color: rgb(45, 45, 45);
+  padding: 0px;
+  list-style-type: none;
+}
+.cal .elBulletList2 li {
+  font-size: 16px;
+}
+.cal .elBulletListNew li i {
+  margin-right: 10px;
+
+  color: #ffd700;
+}
+.cal .elBulletListNew li {
+  color: white;
+  padding-bottom: 6px;
+  list-style-type: none;
+  margin-bottom: 6px;
+  /* padding-left: 2em; */
+}
+.ms28 b {
+  color: #ffd700;
+}
+.lmtWIHO_gkbTeeyuvoJC.mOUYF5ZmuNL6I7t0mSFg {
+  background-color: transparent !important;
+}
+@media (max-width: 1112px) {
+  .col-inner {
+    max-width: 680px;
+  }
+  .calendly-inline-widget {
+    height: calc(100% + 370px) !important;
+  }
+}
+@media (max-width: 750px) {
+  .calendly-inline-widget {
+    height: calc(100% + 400px) !important;
+  }
+  .elImageWrapper {
+    text-align: center !important;
+  }
+  .col-inner {
+    /* padding: 20px; */
+  }
+}
+@media (max-width: 720px) {
+  .col-inner {
+    padding: 0px;
+  }
+  .calendly-inline-widget {
+    margin-top: 35px;
+    height: calc(100% + 400px) !important;
+  }
+  .ms28 b {
+    font-size: 19px !important;
+  }
+  .adult b {
+    font-size: 17px;
+  }
+  .therap b {
+    font-size: 26px;
+
+    font-weight: 700;
+  }
+}
+@media (max-width: 560px) {
+  .calendly-inline-widget {
+    /* height: auto !important; */
+    height: calc(100% + 400px) !important;
+  }
+}
